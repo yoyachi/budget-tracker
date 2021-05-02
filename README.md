@@ -16,7 +16,9 @@ This application is a PWA (Progresive Web Application), which means clients will
   
 ## Installation
 
-To install all required dependencies please run `npm install`
+* Please clone GitHub repository
+* `npm init`
+* Invoke application using `npm install`.
 
 ## Usage
 
