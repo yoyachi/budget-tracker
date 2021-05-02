@@ -1,3 +1,4 @@
+![Screen Shot 2021-05-02 at 1 53 50 PM](https://user-images.githubusercontent.com/69886471/116824146-3cc0d000-ab4e-11eb-98b9-ed963b951901.png)
 # Budget-Tracker(PWA)
 
 ## Description
@@ -34,6 +35,10 @@ The following screenshot is an example of this application.
 ## Screenshot
 
 ![Screen Shot 2021-05-02 at 12 20 14 PM](https://user-images.githubusercontent.com/69886471/116821785-e5683300-ab40-11eb-9ed8-3f1851ba0c41.png)
+
+![Screen Shot 2021-05-02 at 1 53 50 PM](https://user-images.githubusercontent.com/69886471/116824152-49452880-ab4e-11eb-8c7b-38928fb77977.png)
+![Screen Shot 2021-05-02 at 1 54 06 PM](https://user-images.githubusercontent.com/69886471/116824156-5104cd00-ab4e-11eb-93c0-94e3e9ef3ba8.png)
+
 
 
 ## Technologies Used
