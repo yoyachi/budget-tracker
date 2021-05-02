@@ -1,4 +1,3 @@
-![Screen Shot 2021-05-02 at 1 53 50 PM](https://user-images.githubusercontent.com/69886471/116824146-3cc0d000-ab4e-11eb-98b9-ed963b951901.png)
 # Budget-Tracker(PWA)
 
 ## Description
