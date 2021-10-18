@@ -2,7 +2,7 @@
 
 ## Description
 
-Budget Tracker is an application that lets users to track their budgets adding and substracting transactions. It will show a chart that fluctuates according expenses and deposits already generated. 
+Budget Tracker is an application that lets users track their budgets adding and substracting transactions. It will show a chart that fluctuates according expenses and deposits already generated. 
 This application is a PWA (Progresive Web Application), which means clients will be able to generate and see their transactions without the need of internet connection.  When a user enters a transaction meanwhile no internet connection, this transaction will be stores in the indexedDB. Then, all this information will be stored back in its regular database when connection to internet comes back without loosing fuctionality. 
 
 ## Table of Contents
